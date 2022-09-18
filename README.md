@@ -22,7 +22,7 @@
 
 - 💞️ I like to reading books and playing cricket.
 
-- 💬 Have a look at my [portfolio]("https://shradha-mishra-portfolio.vercel.app/").
+- 💬 Have a look at my [portfolio](https://shradha-mishra-portfolio.vercel.app/).
 
 
   
