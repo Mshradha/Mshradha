@@ -18,9 +18,9 @@
 
 - 🔭 Intrigued to learn new technologies in Web Development.
 
-- 🌱 I’m Currently learning MERN stack at MASAI school.
+- 🌱 I’m Currently working as MERN stack at Buyo India Pvt. Ltd.
 
-- 💞️ I like to reading books and playing cricket.
+- 💞️ I like to reading books and dance.
 
 - 💬 Have a look at my [portfolio](https://shradha-mishra-portfolio.vercel.app/).
 
