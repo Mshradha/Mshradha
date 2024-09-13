@@ -5,8 +5,6 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Mshradha.Mshradha)
-[![Github](https://img.shields.io/github/followers/Mshradha?label=Follow&style=social)](https://github.com/Mshradha)  
 
 <div size='20px'> Hi! My name is Shradha. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
