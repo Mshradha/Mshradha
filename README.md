@@ -16,7 +16,7 @@
 
 - 🔭 Intrigued to learn new technologies in Web Development.
 
-- 🌱 I’m Currently working as MERN stack at Buyo India Pvt. Ltd.
+- 🌱 I’m Currently working as software engineer 1 at Contentstack.
 
 - 💞️ I like to reading books and dance.
 
